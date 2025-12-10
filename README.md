@@ -2,9 +2,6 @@
 
 # HAI3 - AI-Optimized UI Development Kit for Modern SaaS Applications
 
-
-[![Developed by](./badgeHN.svg)](https://www.hai3.org/tavffm/badgeHN.svg)
-
 ![Badge](./.github/badgeHN.svg)
 
 
