@@ -548,5 +548,11 @@
   "input_group_username_placeholder": "nomeusuario",
   "input_group_code_placeholder": "console.log('Olá, mundo!');",
   "input_group_line_info": "Linha 1, Coluna 1",
-  "input_group_run_button": "Executar"
+  "input_group_run_button": "Executar",
+  "form_heading": "Formulário",
+  "form_profile_label": "Formulário de Perfil com Validação",
+  "form_username_label": "Nome de usuário",
+  "form_username_placeholder": "shadcn",
+  "form_username_description": "Este é o seu nome de exibição público.",
+  "form_submit_button": "Enviar"
 }

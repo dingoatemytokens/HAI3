@@ -548,5 +548,11 @@
   "input_group_username_placeholder": "사용자명",
   "input_group_code_placeholder": "console.log('안녕, 세상!');",
   "input_group_line_info": "1행, 1열",
-  "input_group_run_button": "실행"
+  "input_group_run_button": "실행",
+  "form_heading": "폼",
+  "form_profile_label": "유효성 검사가 있는 프로필 폼",
+  "form_username_label": "사용자 이름",
+  "form_username_placeholder": "shadcn",
+  "form_username_description": "이것은 공개 표시 이름입니다.",
+  "form_submit_button": "제출"
 }

@@ -548,5 +548,11 @@
   "input_group_username_placeholder": "felhasznalonev",
   "input_group_code_placeholder": "console.log('Helló, világ!');",
   "input_group_line_info": "1. sor, 1. oszlop",
-  "input_group_run_button": "Futtatás"
+  "input_group_run_button": "Futtatás",
+  "form_heading": "Űrlap",
+  "form_profile_label": "Profil űrlap validációval",
+  "form_username_label": "Felhasználónév",
+  "form_username_placeholder": "shadcn",
+  "form_username_description": "Ez a nyilvános megjelenítési neved.",
+  "form_submit_button": "Küldés"
 }

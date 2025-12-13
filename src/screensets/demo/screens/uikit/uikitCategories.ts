@@ -187,6 +187,7 @@ export const IMPLEMENTED_ELEMENTS = [
   'Input Group',
   'Input OTP',
   'Field',
+  'Form',
   'Item',
   'Label',
   'Menubar',

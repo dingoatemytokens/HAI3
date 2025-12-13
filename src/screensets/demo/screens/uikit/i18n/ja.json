@@ -548,5 +548,11 @@
   "input_group_username_placeholder": "ユーザー名",
   "input_group_code_placeholder": "console.log('こんにちは、世界！');",
   "input_group_line_info": "行 1、列 1",
-  "input_group_run_button": "実行"
+  "input_group_run_button": "実行",
+  "form_heading": "フォーム",
+  "form_profile_label": "バリデーション付きプロフィールフォーム",
+  "form_username_label": "ユーザー名",
+  "form_username_placeholder": "shadcn",
+  "form_username_description": "これはあなたの公開表示名です。",
+  "form_submit_button": "送信"
 }

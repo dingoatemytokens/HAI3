@@ -548,5 +548,11 @@
   "input_group_username_placeholder": "ชื่อผู้ใช้",
   "input_group_code_placeholder": "console.log('สวัสดี โลก!');",
   "input_group_line_info": "บรรทัด 1 คอลัมน์ 1",
-  "input_group_run_button": "รัน"
+  "input_group_run_button": "รัน",
+  "form_heading": "แบบฟอร์ม",
+  "form_profile_label": "แบบฟอร์มโปรไฟล์พร้อมการตรวจสอบ",
+  "form_username_label": "ชื่อผู้ใช้",
+  "form_username_placeholder": "shadcn",
+  "form_username_description": "นี่คือชื่อที่แสดงสาธารณะของคุณ",
+  "form_submit_button": "ส่ง"
 }

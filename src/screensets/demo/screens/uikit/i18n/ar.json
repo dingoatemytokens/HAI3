@@ -544,5 +544,11 @@
   "input_group_username_placeholder": "اسمالمستخدم",
   "input_group_code_placeholder": "console.log('مرحبا، العالم!');",
   "input_group_line_info": "السطر 1، العمود 1",
-  "input_group_run_button": "تشغيل"
+  "input_group_run_button": "تشغيل",
+  "form_heading": "نموذج",
+  "form_profile_label": "نموذج الملف الشخصي مع التحقق",
+  "form_username_label": "اسم المستخدم",
+  "form_username_placeholder": "shadcn",
+  "form_username_description": "هذا هو اسم العرض العام الخاص بك.",
+  "form_submit_button": "إرسال"
 }

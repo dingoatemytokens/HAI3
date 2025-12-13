@@ -55,6 +55,7 @@ import type { DateRange } from 'react-day-picker';
 import { useTranslation, TextLoader } from '@hai3/uicore';
 import { DEMO_SCREENSET_ID } from "../ids";
 import { UI_KIT_ELEMENTS_SCREEN_ID } from "../ids";
+import { ProfileForm } from "../uikit/forms/ProfileForm";
 
 /**
  * Form Elements Component
@@ -676,6 +677,26 @@ export const FormElements: React.FC = () => {
                 <Input type="text" id="field-address" />
               </Field>
             </FieldSet>
+          </div>
+        </div>
+      </div>
+
+      {/* Form Element Block */}
+      <div data-element-id="element-form" className="flex flex-col gap-4">
+        <TextLoader skeletonClassName="h-8 w-24">
+          <h2 className="text-2xl font-semibold">
+            {tk('form_heading')}
+          </h2>
+        </TextLoader>
+        <div className="flex flex-col gap-6 p-6 border border-border rounded-lg bg-background overflow-hidden">
+          {/* Profile Form with Validation */}
+          <div className="flex flex-col gap-2">
+            <TextLoader skeletonClassName="h-4 w-40" inheritColor>
+              <label className="text-xs text-muted-foreground">
+                {tk('form_profile_label')}
+              </label>
+            </TextLoader>
+            <ProfileForm tk={tk} />
           </div>
         </div>
       </div>

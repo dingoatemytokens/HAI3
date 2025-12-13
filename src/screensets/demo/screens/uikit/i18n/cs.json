@@ -548,5 +548,11 @@
   "input_group_username_placeholder": "uzivatelskejmeno",
   "input_group_code_placeholder": "console.log('Ahoj, světe!');",
   "input_group_line_info": "Řádek 1, Sloupec 1",
-  "input_group_run_button": "Spustit"
+  "input_group_run_button": "Spustit",
+  "form_heading": "Formulář",
+  "form_profile_label": "Profilový formulář s validací",
+  "form_username_label": "Uživatelské jméno",
+  "form_username_placeholder": "shadcn",
+  "form_username_description": "Toto je vaše veřejné zobrazované jméno.",
+  "form_submit_button": "Odeslat"
 }

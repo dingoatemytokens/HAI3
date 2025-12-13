@@ -548,5 +548,11 @@
   "input_group_username_placeholder": "שםמשתמש",
   "input_group_code_placeholder": "console.log('שלום, עולם!');",
   "input_group_line_info": "שורה 1, עמודה 1",
-  "input_group_run_button": "הרץ"
+  "input_group_run_button": "הרץ",
+  "form_heading": "טופס",
+  "form_profile_label": "טופס פרופיל עם אימות",
+  "form_username_label": "שם משתמש",
+  "form_username_placeholder": "shadcn",
+  "form_username_description": "זהו שם התצוגה הציבורי שלך.",
+  "form_submit_button": "שלח"
 }

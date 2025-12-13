@@ -548,5 +548,11 @@
   "input_group_username_placeholder": "ব্যবহারকারীনাম",
   "input_group_code_placeholder": "console.log('হ্যালো, বিশ্ব!');",
   "input_group_line_info": "সারি 1, কলাম 1",
-  "input_group_run_button": "চালান"
+  "input_group_run_button": "চালান",
+  "form_heading": "ফর্ম",
+  "form_profile_label": "যাচাইকরণ সহ প্রোফাইল ফর্ম",
+  "form_username_label": "ব্যবহারকারীর নাম",
+  "form_username_placeholder": "shadcn",
+  "form_username_description": "এটি আপনার সর্বজনীন প্রদর্শন নাম।",
+  "form_submit_button": "জমা দিন"
 }

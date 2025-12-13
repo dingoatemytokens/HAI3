@@ -548,5 +548,11 @@
   "input_group_username_placeholder": "όνομαχρήστη",
   "input_group_code_placeholder": "console.log('Γεια σου, κόσμε!');",
   "input_group_line_info": "Γραμμή 1, Στήλη 1",
-  "input_group_run_button": "Εκτέλεση"
+  "input_group_run_button": "Εκτέλεση",
+  "form_heading": "Φόρμα",
+  "form_profile_label": "Φόρμα Προφίλ με Επικύρωση",
+  "form_username_label": "Όνομα χρήστη",
+  "form_username_placeholder": "shadcn",
+  "form_username_description": "Αυτό είναι το δημόσιο όνομα εμφάνισής σας.",
+  "form_submit_button": "Υποβολή"
 }

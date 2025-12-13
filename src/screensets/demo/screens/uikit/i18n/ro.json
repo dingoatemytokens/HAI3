@@ -548,5 +548,11 @@
   "input_group_username_placeholder": "numeutilizator",
   "input_group_code_placeholder": "console.log('Salut, lume!');",
   "input_group_line_info": "Linia 1, Coloana 1",
-  "input_group_run_button": "Rulează"
+  "input_group_run_button": "Rulează",
+  "form_heading": "Formular",
+  "form_profile_label": "Formular de Profil cu Validare",
+  "form_username_label": "Nume de utilizator",
+  "form_username_placeholder": "shadcn",
+  "form_username_description": "Acesta este numele tău de afișare public.",
+  "form_submit_button": "Trimite"
 }

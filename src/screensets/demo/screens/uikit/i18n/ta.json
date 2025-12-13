@@ -548,5 +548,11 @@
   "input_group_username_placeholder": "பயனர்பெயர்",
   "input_group_code_placeholder": "console.log('வணக்கம், உலகம்!');",
   "input_group_line_info": "வரி 1, நெடுவரிசை 1",
-  "input_group_run_button": "இயக்கு"
+  "input_group_run_button": "இயக்கு",
+  "form_heading": "படிவம்",
+  "form_profile_label": "சரிபார்ப்புடன் சுயவிவர படிவம்",
+  "form_username_label": "பயனர்பெயர்",
+  "form_username_placeholder": "shadcn",
+  "form_username_description": "இது உங்கள் பொது காட்சி பெயர்.",
+  "form_submit_button": "சமர்ப்பி"
 }

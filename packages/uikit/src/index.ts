@@ -29,6 +29,16 @@ export {
   FieldSeparator,
   FieldError,
 } from './composite/forms/field';
+export {
+  useFormField,
+  Form,
+  FormItem,
+  FormLabel,
+  FormControl,
+  FormDescription,
+  FormMessage,
+  FormField,
+} from './base/form';
 export { Textarea } from './base/textarea';
 export { Switch } from './base/switch';
 export { Skeleton } from './base/skeleton';

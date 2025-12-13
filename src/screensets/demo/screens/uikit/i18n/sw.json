@@ -548,5 +548,11 @@
   "input_group_username_placeholder": "jinalamtumiaji",
   "input_group_code_placeholder": "console.log('Hujambo, dunia!');",
   "input_group_line_info": "Mstari 1, Safu 1",
-  "input_group_run_button": "Fanya"
+  "input_group_run_button": "Fanya",
+  "form_heading": "Fomu",
+  "form_profile_label": "Fomu ya Wasifu na Uthibitishaji",
+  "form_username_label": "Jina la mtumiaji",
+  "form_username_placeholder": "shadcn",
+  "form_username_description": "Hii ni jina lako la kuonyesha hadharani.",
+  "form_submit_button": "Wasilisha"
 }

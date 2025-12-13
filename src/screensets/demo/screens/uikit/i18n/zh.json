@@ -548,5 +548,11 @@
   "input_group_username_placeholder": "用户名",
   "input_group_code_placeholder": "console.log('你好，世界！');",
   "input_group_line_info": "第 1 行，第 1 列",
-  "input_group_run_button": "运行"
+  "input_group_run_button": "运行",
+  "form_heading": "表单",
+  "form_profile_label": "带验证的个人资料表单",
+  "form_username_label": "用户名",
+  "form_username_placeholder": "shadcn",
+  "form_username_description": "这是您的公开显示名称。",
+  "form_submit_button": "提交"
 }

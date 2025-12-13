@@ -548,5 +548,11 @@
   "input_group_username_placeholder": "صارفنام",
   "input_group_code_placeholder": "console.log('ہیلو، دنیا!');",
   "input_group_line_info": "قطار 1، کالم 1",
-  "input_group_run_button": "چلائیں"
+  "input_group_run_button": "چلائیں",
+  "form_heading": "فارم",
+  "form_profile_label": "توثیق کے ساتھ پروفائل فارم",
+  "form_username_label": "صارف نام",
+  "form_username_placeholder": "shadcn",
+  "form_username_description": "یہ آپ کا عوامی ڈسپلے نام ہے۔",
+  "form_submit_button": "جمع کرائیں"
 }
