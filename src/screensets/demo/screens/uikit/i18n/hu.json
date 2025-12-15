@@ -567,10 +567,6 @@
   "table_method_credit": "Hitelkártya",
   "table_method_paypal": "PayPal",
   "table_method_bank": "Átutalás",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
   "table_total": "Összesen",
   "data_table_heading": "Adattábla",
   "data_table_select_all": "Összes kijelölése",
@@ -579,15 +575,6 @@
   "data_table_email": "E-mail",
   "data_table_amount": "Összeg",
   "data_table_filter_placeholder": "E-mailek szűrése...",
-<<<<<<< HEAD
-  "data_table_no_results": "Nincs találat."
-<<<<<<< HEAD
-=======
-  "table_total": "Összesen"
->>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
-=======
   "data_table_no_results": "Nincs találat.",
   "alert_heading": "Figyelmeztetés",
   "alert_success_title": "Sikeres! A módosítások mentve",
@@ -598,5 +585,4 @@
   "alert_error_check_card": "Ellenőrizze a kártyaadatokat",
   "alert_error_ensure_funds": "Biztosítson elegendő fedezetet",
   "alert_error_verify_address": "Ellenőrizze a számlázási címet"
->>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

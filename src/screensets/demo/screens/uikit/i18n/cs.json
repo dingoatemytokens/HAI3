@@ -567,10 +567,6 @@
   "table_method_credit": "Kreditní karta",
   "table_method_paypal": "PayPal",
   "table_method_bank": "Převod",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
   "table_total": "Celkem",
   "data_table_heading": "Datová tabulka",
   "data_table_select_all": "Vybrat vše",
@@ -579,15 +575,6 @@
   "data_table_email": "E-mail",
   "data_table_amount": "Částka",
   "data_table_filter_placeholder": "Filtrovat e-maily...",
-<<<<<<< HEAD
-  "data_table_no_results": "Žádné výsledky."
-<<<<<<< HEAD
-=======
-  "table_total": "Celkem"
->>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
-=======
   "data_table_no_results": "Žádné výsledky.",
   "alert_heading": "Upozornění",
   "alert_success_title": "Úspěch! Vaše změny byly uloženy",
@@ -598,5 +585,4 @@
   "alert_error_check_card": "Zkontrolujte údaje karty",
   "alert_error_ensure_funds": "Zajistěte dostatečné prostředky",
   "alert_error_verify_address": "Ověřte fakturační adresu"
->>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

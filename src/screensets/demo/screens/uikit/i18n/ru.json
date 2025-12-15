@@ -567,10 +567,6 @@
   "table_method_credit": "Кредитная карта",
   "table_method_paypal": "PayPal",
   "table_method_bank": "Перевод",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
   "table_total": "Итого",
   "data_table_heading": "Таблица данных",
   "data_table_select_all": "Выбрать все",
@@ -579,15 +575,6 @@
   "data_table_email": "Email",
   "data_table_amount": "Сумма",
   "data_table_filter_placeholder": "Фильтр по email...",
-<<<<<<< HEAD
-  "data_table_no_results": "Нет результатов."
-<<<<<<< HEAD
-=======
-  "table_total": "Итого"
->>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
-=======
   "data_table_no_results": "Нет результатов.",
   "alert_heading": "Уведомление",
   "alert_success_title": "Успешно! Ваши изменения сохранены",
@@ -598,5 +585,4 @@
   "alert_error_check_card": "Проверьте данные карты",
   "alert_error_ensure_funds": "Убедитесь в достаточном балансе",
   "alert_error_verify_address": "Проверьте адрес выставления счета"
->>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

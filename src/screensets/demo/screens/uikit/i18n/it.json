@@ -567,10 +567,6 @@
   "table_method_credit": "Carta di Credito",
   "table_method_paypal": "PayPal",
   "table_method_bank": "Bonifico",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
   "table_total": "Totale",
   "data_table_heading": "Tabella Dati",
   "data_table_select_all": "Seleziona tutto",
@@ -579,15 +575,6 @@
   "data_table_email": "E-mail",
   "data_table_amount": "Importo",
   "data_table_filter_placeholder": "Filtra e-mail...",
-<<<<<<< HEAD
-  "data_table_no_results": "Nessun risultato."
-<<<<<<< HEAD
-=======
-  "table_total": "Totale"
->>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
-=======
   "data_table_no_results": "Nessun risultato.",
   "alert_heading": "Avviso",
   "alert_success_title": "Successo! Le tue modifiche sono state salvate",
@@ -598,5 +585,4 @@
   "alert_error_check_card": "Controlla i dati della carta",
   "alert_error_ensure_funds": "Assicurati di avere fondi sufficienti",
   "alert_error_verify_address": "Verifica l'indirizzo di fatturazione"
->>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

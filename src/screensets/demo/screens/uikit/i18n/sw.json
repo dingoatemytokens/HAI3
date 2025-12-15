@@ -567,10 +567,6 @@
   "table_method_credit": "Kadi ya Mkopo",
   "table_method_paypal": "PayPal",
   "table_method_bank": "Uhamisho wa Benki",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
   "table_total": "Jumla",
   "data_table_heading": "Jedwali la Data",
   "data_table_select_all": "Chagua zote",
@@ -579,15 +575,6 @@
   "data_table_email": "Barua pepe",
   "data_table_amount": "Kiasi",
   "data_table_filter_placeholder": "Chuja barua pepe...",
-<<<<<<< HEAD
-  "data_table_no_results": "Hakuna matokeo."
-<<<<<<< HEAD
-=======
-  "table_total": "Jumla"
->>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
-=======
   "data_table_no_results": "Hakuna matokeo.",
   "alert_heading": "Tahadhari",
   "alert_success_title": "Imefanikiwa! Mabadiliko yako yamehifadhiwa",
@@ -598,5 +585,4 @@
   "alert_error_check_card": "Angalia maelezo ya kadi yako",
   "alert_error_ensure_funds": "Hakikisha salio la kutosha",
   "alert_error_verify_address": "Thibitisha anwani ya kulipia"
->>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

@@ -567,10 +567,6 @@
   "table_method_credit": "Kreditkort",
   "table_method_paypal": "PayPal",
   "table_method_bank": "Överföring",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
   "table_total": "Totalt",
   "data_table_heading": "Datatabell",
   "data_table_select_all": "Välj alla",
@@ -579,15 +575,6 @@
   "data_table_email": "E-post",
   "data_table_amount": "Belopp",
   "data_table_filter_placeholder": "Filtrera e-post...",
-<<<<<<< HEAD
-  "data_table_no_results": "Inga resultat."
-<<<<<<< HEAD
-=======
-  "table_total": "Totalt"
->>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
-=======
   "data_table_no_results": "Inga resultat.",
   "alert_heading": "Varning",
   "alert_success_title": "Klart! Dina ändringar har sparats",
@@ -598,5 +585,4 @@
   "alert_error_check_card": "Kontrollera dina kortuppgifter",
   "alert_error_ensure_funds": "Säkerställ tillräckligt saldo",
   "alert_error_verify_address": "Verifiera faktureringsadress"
->>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

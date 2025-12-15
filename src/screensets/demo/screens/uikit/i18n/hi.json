@@ -567,10 +567,6 @@
   "table_method_credit": "क्रेडिट कार्ड",
   "table_method_paypal": "PayPal",
   "table_method_bank": "बैंक ट्रांसफर",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
   "table_total": "कुल",
   "data_table_heading": "डेटा टेबल",
   "data_table_select_all": "सभी चुनें",
@@ -579,15 +575,6 @@
   "data_table_email": "ईमेल",
   "data_table_amount": "राशि",
   "data_table_filter_placeholder": "ईमेल फ़िल्टर...",
-<<<<<<< HEAD
-  "data_table_no_results": "कोई परिणाम नहीं।"
-<<<<<<< HEAD
-=======
-  "table_total": "कुल"
->>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
-=======
   "data_table_no_results": "कोई परिणाम नहीं।",
   "alert_heading": "चेतावनी",
   "alert_success_title": "सफल! आपके बदलाव सहेज लिए गए हैं",
@@ -598,5 +585,4 @@
   "alert_error_check_card": "अपने कार्ड विवरण जांचें",
   "alert_error_ensure_funds": "पर्याप्त धनराशि सुनिश्चित करें",
   "alert_error_verify_address": "बिलिंग पता सत्यापित करें"
->>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

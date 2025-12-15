@@ -567,10 +567,6 @@
   "table_method_credit": "Кредитна картка",
   "table_method_paypal": "PayPal",
   "table_method_bank": "Переказ",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
   "table_total": "Всього",
   "data_table_heading": "Таблиця даних",
   "data_table_select_all": "Вибрати все",
@@ -579,15 +575,6 @@
   "data_table_email": "Email",
   "data_table_amount": "Сума",
   "data_table_filter_placeholder": "Фільтр email...",
-<<<<<<< HEAD
-  "data_table_no_results": "Немає результатів."
-<<<<<<< HEAD
-=======
-  "table_total": "Всього"
->>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
-=======
   "data_table_no_results": "Немає результатів.",
   "alert_heading": "Сповіщення",
   "alert_success_title": "Успішно! Ваші зміни збережено",
@@ -598,5 +585,4 @@
   "alert_error_check_card": "Перевірте дані картки",
   "alert_error_ensure_funds": "Переконайтеся в достатньому балансі",
   "alert_error_verify_address": "Перевірте адресу виставлення рахунку"
->>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

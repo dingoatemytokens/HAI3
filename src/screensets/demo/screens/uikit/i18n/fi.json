@@ -567,10 +567,6 @@
   "table_method_credit": "Luottokortti",
   "table_method_paypal": "PayPal",
   "table_method_bank": "Tilisiirto",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
   "table_total": "Yhteensä",
   "data_table_heading": "Tietotaulukko",
   "data_table_select_all": "Valitse kaikki",
@@ -579,15 +575,6 @@
   "data_table_email": "Sähköposti",
   "data_table_amount": "Summa",
   "data_table_filter_placeholder": "Suodata sähköpostit...",
-<<<<<<< HEAD
-  "data_table_no_results": "Ei tuloksia."
-<<<<<<< HEAD
-=======
-  "table_total": "Yhteensä"
->>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
-=======
   "data_table_no_results": "Ei tuloksia.",
   "alert_heading": "Ilmoitus",
   "alert_success_title": "Onnistui! Muutoksesi on tallennettu",
@@ -598,5 +585,4 @@
   "alert_error_check_card": "Tarkista korttitietosi",
   "alert_error_ensure_funds": "Varmista riittävä kate",
   "alert_error_verify_address": "Vahvista laskutusosoite"
->>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

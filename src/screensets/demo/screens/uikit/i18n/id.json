@@ -567,10 +567,6 @@
   "table_method_credit": "Kartu Kredit",
   "table_method_paypal": "PayPal",
   "table_method_bank": "Transfer Bank",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
   "table_total": "Total",
   "data_table_heading": "Tabel Data",
   "data_table_select_all": "Pilih semua",
@@ -579,15 +575,6 @@
   "data_table_email": "Email",
   "data_table_amount": "Jumlah",
   "data_table_filter_placeholder": "Filter email...",
-<<<<<<< HEAD
-  "data_table_no_results": "Tidak ada hasil."
-<<<<<<< HEAD
-=======
-  "table_total": "Total"
->>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
-=======
   "data_table_no_results": "Tidak ada hasil.",
   "alert_heading": "Peringatan",
   "alert_success_title": "Berhasil! Perubahan Anda telah disimpan",
@@ -598,5 +585,4 @@
   "alert_error_check_card": "Periksa detail kartu Anda",
   "alert_error_ensure_funds": "Pastikan dana mencukupi",
   "alert_error_verify_address": "Verifikasi alamat penagihan"
->>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

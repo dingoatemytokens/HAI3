@@ -567,10 +567,6 @@
   "table_method_credit": "כרטיס אשראי",
   "table_method_paypal": "PayPal",
   "table_method_bank": "העברה בנקאית",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
   "table_total": "סה״כ",
   "data_table_heading": "טבלת נתונים",
   "data_table_select_all": "בחר הכל",
@@ -579,15 +575,6 @@
   "data_table_email": "אימייל",
   "data_table_amount": "סכום",
   "data_table_filter_placeholder": "סנן אימיילים...",
-<<<<<<< HEAD
-  "data_table_no_results": "אין תוצאות."
-<<<<<<< HEAD
-=======
-  "table_total": "סה״כ"
->>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
-=======
   "data_table_no_results": "אין תוצאות.",
   "alert_heading": "התראה",
   "alert_success_title": "הצלחה! השינויים שלך נשמרו",
@@ -598,5 +585,4 @@
   "alert_error_check_card": "בדוק את פרטי הכרטיס",
   "alert_error_ensure_funds": "ודא יתרה מספקת",
   "alert_error_verify_address": "אמת כתובת לחיוב"
->>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

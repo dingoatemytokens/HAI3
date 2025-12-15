@@ -567,10 +567,6 @@
   "table_method_credit": "บัตรเครดิต",
   "table_method_paypal": "PayPal",
   "table_method_bank": "โอนเงิน",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
   "table_total": "รวม",
   "data_table_heading": "ตารางข้อมูล",
   "data_table_select_all": "เลือกทั้งหมด",
@@ -579,15 +575,6 @@
   "data_table_email": "อีเมล",
   "data_table_amount": "จำนวน",
   "data_table_filter_placeholder": "กรองอีเมล...",
-<<<<<<< HEAD
-  "data_table_no_results": "ไม่พบผลลัพธ์"
-<<<<<<< HEAD
-=======
-  "table_total": "รวม"
->>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
-=======
   "data_table_no_results": "ไม่พบผลลัพธ์",
   "alert_heading": "การแจ้งเตือน",
   "alert_success_title": "สำเร็จ! การเปลี่ยนแปลงของคุณถูกบันทึกแล้ว",
@@ -598,5 +585,4 @@
   "alert_error_check_card": "ตรวจสอบรายละเอียดบัตรของคุณ",
   "alert_error_ensure_funds": "ตรวจสอบยอดเงินคงเหลือ",
   "alert_error_verify_address": "ยืนยันที่อยู่สำหรับเรียกเก็บเงิน"
->>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

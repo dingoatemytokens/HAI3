@@ -567,10 +567,6 @@
   "table_method_credit": "Kredittkort",
   "table_method_paypal": "PayPal",
   "table_method_bank": "Bankoverføring",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
   "table_total": "Totalt",
   "data_table_heading": "Datatabell",
   "data_table_select_all": "Velg alle",
@@ -579,15 +575,6 @@
   "data_table_email": "E-post",
   "data_table_amount": "Beløp",
   "data_table_filter_placeholder": "Filtrer e-post...",
-<<<<<<< HEAD
-  "data_table_no_results": "Ingen resultater."
-<<<<<<< HEAD
-=======
-  "table_total": "Totalt"
->>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
-=======
   "data_table_no_results": "Ingen resultater.",
   "alert_heading": "Varsel",
   "alert_success_title": "Suksess! Endringene dine er lagret",
@@ -598,5 +585,4 @@
   "alert_error_check_card": "Sjekk kortdetaljene dine",
   "alert_error_ensure_funds": "Sørg for tilstrekkelig dekning",
   "alert_error_verify_address": "Bekreft faktureringsadresse"
->>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

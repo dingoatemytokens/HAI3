@@ -567,10 +567,6 @@
   "table_method_credit": "கிரெடிட் கார்டு",
   "table_method_paypal": "PayPal",
   "table_method_bank": "வங்கி பரிமாற்றம்",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
   "table_total": "மொத்தம்",
   "data_table_heading": "தரவு அட்டவணை",
   "data_table_select_all": "அனைத்தையும் தேர்ந்தெடு",
@@ -579,15 +575,6 @@
   "data_table_email": "மின்னஞ்சல்",
   "data_table_amount": "தொகை",
   "data_table_filter_placeholder": "மின்னஞ்சல் வடிகட்டு...",
-<<<<<<< HEAD
-  "data_table_no_results": "முடிவுகள் இல்லை."
-<<<<<<< HEAD
-=======
-  "table_total": "மொத்தம்"
->>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
-=======
   "data_table_no_results": "முடிவுகள் இல்லை.",
   "alert_heading": "எச்சரிக்கை",
   "alert_success_title": "வெற்றி! உங்கள் மாற்றங்கள் சேமிக்கப்பட்டன",
@@ -598,5 +585,4 @@
   "alert_error_check_card": "உங்கள் கார்டு விவரங்களை சரிபார்க்கவும்",
   "alert_error_ensure_funds": "போதுமான இருப்பை உறுதிசெய்க",
   "alert_error_verify_address": "பில்லிங் முகவரியை சரிபார்க்கவும்"
->>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

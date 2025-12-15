@@ -567,10 +567,6 @@
   "table_method_credit": "Kreditkort",
   "table_method_paypal": "PayPal",
   "table_method_bank": "Bankoverførsel",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
   "table_total": "Total",
   "data_table_heading": "Datatabel",
   "data_table_select_all": "Vælg alle",
@@ -579,15 +575,6 @@
   "data_table_email": "E-mail",
   "data_table_amount": "Beløb",
   "data_table_filter_placeholder": "Filtrer e-mails...",
-<<<<<<< HEAD
-  "data_table_no_results": "Ingen resultater."
-<<<<<<< HEAD
-=======
-  "table_total": "Total"
->>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
-=======
   "data_table_no_results": "Ingen resultater.",
   "alert_heading": "Advarsel",
   "alert_success_title": "Succes! Dine ændringer er gemt",
@@ -598,5 +585,4 @@
   "alert_error_check_card": "Kontroller dine kortoplysninger",
   "alert_error_ensure_funds": "Sørg for tilstrækkelige midler",
   "alert_error_verify_address": "Bekræft faktureringsadresse"
->>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

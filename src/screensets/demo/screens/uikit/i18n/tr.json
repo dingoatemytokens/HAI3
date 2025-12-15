@@ -567,10 +567,6 @@
   "table_method_credit": "Kredi Kartı",
   "table_method_paypal": "PayPal",
   "table_method_bank": "Banka Havalesi",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
   "table_total": "Toplam",
   "data_table_heading": "Veri Tablosu",
   "data_table_select_all": "Tümünü seç",
@@ -579,15 +575,6 @@
   "data_table_email": "E-posta",
   "data_table_amount": "Tutar",
   "data_table_filter_placeholder": "E-posta filtrele...",
-<<<<<<< HEAD
-  "data_table_no_results": "Sonuç yok."
-<<<<<<< HEAD
-=======
-  "table_total": "Toplam"
->>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
-=======
   "data_table_no_results": "Sonuç yok.",
   "alert_heading": "Uyarı",
   "alert_success_title": "Başarılı! Değişiklikleriniz kaydedildi",
@@ -598,5 +585,4 @@
   "alert_error_check_card": "Kart bilgilerinizi kontrol edin",
   "alert_error_ensure_funds": "Yeterli bakiye olduğundan emin olun",
   "alert_error_verify_address": "Fatura adresini doğrulayın"
->>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

@@ -563,10 +563,6 @@
   "table_method_credit": "بطاقة ائتمان",
   "table_method_paypal": "PayPal",
   "table_method_bank": "تحويل بنكي",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
   "table_total": "المجموع",
   "data_table_heading": "جدول البيانات",
   "data_table_select_all": "تحديد الكل",
@@ -575,15 +571,6 @@
   "data_table_email": "البريد الإلكتروني",
   "data_table_amount": "المبلغ",
   "data_table_filter_placeholder": "تصفية البريد...",
-<<<<<<< HEAD
-  "data_table_no_results": "لا توجد نتائج."
-<<<<<<< HEAD
-=======
-  "table_total": "المجموع"
->>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
-=======
   "data_table_no_results": "لا توجد نتائج.",
   "alert_heading": "تنبيه",
   "alert_success_title": "تم! تم حفظ تغييراتك",
@@ -594,5 +581,4 @@
   "alert_error_check_card": "تحقق من تفاصيل بطاقتك",
   "alert_error_ensure_funds": "تأكد من وجود رصيد كافٍ",
   "alert_error_verify_address": "تحقق من عنوان الفاتورة"
->>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

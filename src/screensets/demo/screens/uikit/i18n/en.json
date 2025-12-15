@@ -567,10 +567,6 @@
   "table_method_credit": "Credit Card",
   "table_method_paypal": "PayPal",
   "table_method_bank": "Bank Transfer",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
   "table_total": "Total",
   "data_table_heading": "Data Table",
   "data_table_select_all": "Select all",
@@ -579,15 +575,6 @@
   "data_table_email": "Email",
   "data_table_amount": "Amount",
   "data_table_filter_placeholder": "Filter emails...",
-<<<<<<< HEAD
-  "data_table_no_results": "No results."
-<<<<<<< HEAD
-=======
-  "table_total": "Total"
->>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
-=======
   "data_table_no_results": "No results.",
   "alert_heading": "Alert",
   "alert_success_title": "Success! Your changes have been saved",
@@ -598,5 +585,4 @@
   "alert_error_check_card": "Check your card details",
   "alert_error_ensure_funds": "Ensure sufficient funds",
   "alert_error_verify_address": "Verify billing address"
->>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

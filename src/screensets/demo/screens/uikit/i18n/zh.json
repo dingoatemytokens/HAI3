@@ -567,10 +567,6 @@
   "table_method_credit": "信用卡",
   "table_method_paypal": "PayPal",
   "table_method_bank": "银行转账",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
   "table_total": "总计",
   "data_table_heading": "数据表格",
   "data_table_select_all": "全选",
@@ -579,15 +575,6 @@
   "data_table_email": "邮箱",
   "data_table_amount": "金额",
   "data_table_filter_placeholder": "筛选邮箱...",
-<<<<<<< HEAD
-  "data_table_no_results": "无结果。"
-<<<<<<< HEAD
-=======
-  "table_total": "总计"
->>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
-=======
   "data_table_no_results": "无结果。",
   "alert_heading": "提示",
   "alert_success_title": "成功！您的更改已保存",
@@ -598,5 +585,4 @@
   "alert_error_check_card": "检查您的卡片详情",
   "alert_error_ensure_funds": "确保余额充足",
   "alert_error_verify_address": "验证账单地址"
->>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

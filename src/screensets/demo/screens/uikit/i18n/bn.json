@@ -567,10 +567,6 @@
   "table_method_credit": "ক্রেডিট কার্ড",
   "table_method_paypal": "PayPal",
   "table_method_bank": "ব্যাংক ট্রান্সফার",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
   "table_total": "মোট",
   "data_table_heading": "ডেটা টেবিল",
   "data_table_select_all": "সব নির্বাচন",
@@ -579,15 +575,6 @@
   "data_table_email": "ইমেইল",
   "data_table_amount": "পরিমাণ",
   "data_table_filter_placeholder": "ইমেইল ফিল্টার...",
-<<<<<<< HEAD
-  "data_table_no_results": "কোন ফলাফল নেই।"
-<<<<<<< HEAD
-=======
-  "table_total": "মোট"
->>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
-=======
   "data_table_no_results": "কোন ফলাফল নেই।",
   "alert_heading": "সতর্কতা",
   "alert_success_title": "সফল! আপনার পরিবর্তনগুলি সংরক্ষিত হয়েছে",
@@ -598,5 +585,4 @@
   "alert_error_check_card": "আপনার কার্ডের বিবরণ পরীক্ষা করুন",
   "alert_error_ensure_funds": "পর্যাপ্ত তহবিল নিশ্চিত করুন",
   "alert_error_verify_address": "বিলিং ঠিকানা যাচাই করুন"
->>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

@@ -52,10 +52,7 @@ export {
   TableCell,
   TableCaption,
 } from './base/table';
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
+
 export {
   DataTable,
   DataTablePagination,
@@ -79,11 +76,7 @@ export {
   getSortedRowModel,
   useReactTable,
 } from './base/data-table';
-<<<<<<< HEAD
-=======
->>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
+
 export { Skeleton } from './base/skeleton';
 export { Spinner, type SpinnerProps } from './base/spinner';
 export { Slider, SliderTrack, SliderRange, SliderThumb } from './base/slider';

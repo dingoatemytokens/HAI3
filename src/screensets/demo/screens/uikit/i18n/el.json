@@ -567,10 +567,6 @@
   "table_method_credit": "Πιστωτική κάρτα",
   "table_method_paypal": "PayPal",
   "table_method_bank": "Μεταφορά",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
   "table_total": "Σύνολο",
   "data_table_heading": "Πίνακας Δεδομένων",
   "data_table_select_all": "Επιλογή όλων",
@@ -579,15 +575,6 @@
   "data_table_email": "E-mail",
   "data_table_amount": "Ποσό",
   "data_table_filter_placeholder": "Φίλτρο e-mail...",
-<<<<<<< HEAD
-  "data_table_no_results": "Κανένα αποτέλεσμα."
-<<<<<<< HEAD
-=======
-  "table_total": "Σύνολο"
->>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
-=======
   "data_table_no_results": "Κανένα αποτέλεσμα.",
   "alert_heading": "Ειδοποίηση",
   "alert_success_title": "Επιτυχία! Οι αλλαγές σας αποθηκεύτηκαν",
@@ -598,5 +585,4 @@
   "alert_error_check_card": "Ελέγξτε τα στοιχεία της κάρτας",
   "alert_error_ensure_funds": "Εξασφαλίστε επαρκές υπόλοιπο",
   "alert_error_verify_address": "Επαληθεύστε τη διεύθυνση χρέωσης"
->>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

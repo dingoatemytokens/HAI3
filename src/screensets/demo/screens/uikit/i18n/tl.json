@@ -567,10 +567,6 @@
   "table_method_credit": "Credit Card",
   "table_method_paypal": "PayPal",
   "table_method_bank": "Bank Transfer",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
   "table_total": "Kabuuan",
   "data_table_heading": "Talahanayan ng Data",
   "data_table_select_all": "Piliin lahat",
@@ -579,15 +575,6 @@
   "data_table_email": "Email",
   "data_table_amount": "Halaga",
   "data_table_filter_placeholder": "I-filter ang email...",
-<<<<<<< HEAD
-  "data_table_no_results": "Walang resulta."
-<<<<<<< HEAD
-=======
-  "table_total": "Kabuuan"
->>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
-=======
->>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
-=======
   "data_table_no_results": "Walang resulta.",
   "alert_heading": "Alerto",
   "alert_success_title": "Tagumpay! Na-save na ang iyong mga pagbabago",
@@ -598,5 +585,4 @@
   "alert_error_check_card": "Suriin ang mga detalye ng iyong card",
   "alert_error_ensure_funds": "Tiyaking may sapat na pondo",
   "alert_error_verify_address": "I-verify ang address ng pagsingil"
->>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }
