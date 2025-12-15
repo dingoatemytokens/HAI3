@@ -579,6 +579,7 @@
   "data_table_email": "E-mail",
   "data_table_amount": "Bedrag",
   "data_table_filter_placeholder": "E-mails filteren...",
+<<<<<<< HEAD
   "data_table_no_results": "Geen resultaten."
 <<<<<<< HEAD
 =======
@@ -586,4 +587,16 @@
 >>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
 =======
 >>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
+=======
+  "data_table_no_results": "Geen resultaten.",
+  "alert_heading": "Melding",
+  "alert_success_title": "Gelukt! Je wijzigingen zijn opgeslagen",
+  "alert_success_description": "Dit is een melding met icoon, titel en beschrijving.",
+  "alert_info_title": "Deze melding heeft een titel en een icoon. Geen beschrijving.",
+  "alert_error_title": "Je betaling kon niet worden verwerkt.",
+  "alert_error_description": "Controleer je facturatiegegevens en probeer het opnieuw.",
+  "alert_error_check_card": "Controleer je kaartgegevens",
+  "alert_error_ensure_funds": "Zorg voor voldoende saldo",
+  "alert_error_verify_address": "Verifieer factuuradres"
+>>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

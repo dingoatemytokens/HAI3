@@ -579,6 +579,7 @@
   "data_table_email": "ইমেইল",
   "data_table_amount": "পরিমাণ",
   "data_table_filter_placeholder": "ইমেইল ফিল্টার...",
+<<<<<<< HEAD
   "data_table_no_results": "কোন ফলাফল নেই।"
 <<<<<<< HEAD
 =======
@@ -586,4 +587,16 @@
 >>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
 =======
 >>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
+=======
+  "data_table_no_results": "কোন ফলাফল নেই।",
+  "alert_heading": "সতর্কতা",
+  "alert_success_title": "সফল! আপনার পরিবর্তনগুলি সংরক্ষিত হয়েছে",
+  "alert_success_description": "এটি একটি সতর্কতা যেখানে আইকন, শিরোনাম এবং বিবরণ রয়েছে।",
+  "alert_info_title": "এই সতর্কতায় একটি শিরোনাম এবং একটি আইকন আছে। কোনো বিবরণ নেই।",
+  "alert_error_title": "আপনার পেমেন্ট প্রক্রিয়া করা যায়নি।",
+  "alert_error_description": "অনুগ্রহ করে আপনার বিলিং তথ্য যাচাই করুন এবং আবার চেষ্টা করুন।",
+  "alert_error_check_card": "আপনার কার্ডের বিবরণ পরীক্ষা করুন",
+  "alert_error_ensure_funds": "পর্যাপ্ত তহবিল নিশ্চিত করুন",
+  "alert_error_verify_address": "বিলিং ঠিকানা যাচাই করুন"
+>>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

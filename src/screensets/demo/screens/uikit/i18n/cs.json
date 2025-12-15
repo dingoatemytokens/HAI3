@@ -579,6 +579,7 @@
   "data_table_email": "E-mail",
   "data_table_amount": "Částka",
   "data_table_filter_placeholder": "Filtrovat e-maily...",
+<<<<<<< HEAD
   "data_table_no_results": "Žádné výsledky."
 <<<<<<< HEAD
 =======
@@ -586,4 +587,16 @@
 >>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
 =======
 >>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
+=======
+  "data_table_no_results": "Žádné výsledky.",
+  "alert_heading": "Upozornění",
+  "alert_success_title": "Úspěch! Vaše změny byly uloženy",
+  "alert_success_description": "Toto je upozornění s ikonou, názvem a popisem.",
+  "alert_info_title": "Toto upozornění má název a ikonu. Žádný popis.",
+  "alert_error_title": "Platbu nelze zpracovat.",
+  "alert_error_description": "Ověřte prosím své fakturační údaje a zkuste to znovu.",
+  "alert_error_check_card": "Zkontrolujte údaje karty",
+  "alert_error_ensure_funds": "Zajistěte dostatečné prostředky",
+  "alert_error_verify_address": "Ověřte fakturační adresu"
+>>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

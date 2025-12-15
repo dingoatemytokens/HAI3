@@ -579,6 +579,7 @@
   "data_table_email": "אימייל",
   "data_table_amount": "סכום",
   "data_table_filter_placeholder": "סנן אימיילים...",
+<<<<<<< HEAD
   "data_table_no_results": "אין תוצאות."
 <<<<<<< HEAD
 =======
@@ -586,4 +587,16 @@
 >>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
 =======
 >>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
+=======
+  "data_table_no_results": "אין תוצאות.",
+  "alert_heading": "התראה",
+  "alert_success_title": "הצלחה! השינויים שלך נשמרו",
+  "alert_success_description": "זוהי התראה עם סמל, כותרת ותיאור.",
+  "alert_info_title": "להתראה זו יש כותרת וסמל. ללא תיאור.",
+  "alert_error_title": "לא ניתן לעבד את התשלום שלך.",
+  "alert_error_description": "אנא אמת את פרטי החיוב ונסה שוב.",
+  "alert_error_check_card": "בדוק את פרטי הכרטיס",
+  "alert_error_ensure_funds": "ודא יתרה מספקת",
+  "alert_error_verify_address": "אמת כתובת לחיוב"
+>>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

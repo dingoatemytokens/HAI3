@@ -579,6 +579,7 @@
   "data_table_email": "Email",
   "data_table_amount": "Số tiền",
   "data_table_filter_placeholder": "Lọc email...",
+<<<<<<< HEAD
   "data_table_no_results": "Không có kết quả."
 <<<<<<< HEAD
 =======
@@ -586,4 +587,16 @@
 >>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
 =======
 >>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
+=======
+  "data_table_no_results": "Không có kết quả.",
+  "alert_heading": "Cảnh báo",
+  "alert_success_title": "Thành công! Thay đổi của bạn đã được lưu",
+  "alert_success_description": "Đây là cảnh báo có biểu tượng, tiêu đề và mô tả.",
+  "alert_info_title": "Cảnh báo này có tiêu đề và biểu tượng. Không có mô tả.",
+  "alert_error_title": "Không thể xử lý thanh toán của bạn.",
+  "alert_error_description": "Vui lòng xác minh thông tin thanh toán và thử lại.",
+  "alert_error_check_card": "Kiểm tra thông tin thẻ",
+  "alert_error_ensure_funds": "Đảm bảo đủ số dư",
+  "alert_error_verify_address": "Xác minh địa chỉ thanh toán"
+>>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

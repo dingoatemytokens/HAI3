@@ -579,6 +579,7 @@
   "data_table_email": "Barua pepe",
   "data_table_amount": "Kiasi",
   "data_table_filter_placeholder": "Chuja barua pepe...",
+<<<<<<< HEAD
   "data_table_no_results": "Hakuna matokeo."
 <<<<<<< HEAD
 =======
@@ -586,4 +587,16 @@
 >>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
 =======
 >>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
+=======
+  "data_table_no_results": "Hakuna matokeo.",
+  "alert_heading": "Tahadhari",
+  "alert_success_title": "Imefanikiwa! Mabadiliko yako yamehifadhiwa",
+  "alert_success_description": "Hii ni tahadhari yenye ikoni, kichwa na maelezo.",
+  "alert_info_title": "Tahadhari hii ina kichwa na ikoni. Hakuna maelezo.",
+  "alert_error_title": "Malipo yako hayakuweza kusindika.",
+  "alert_error_description": "Tafadhali thibitisha maelezo yako ya kulipia na ujaribu tena.",
+  "alert_error_check_card": "Angalia maelezo ya kadi yako",
+  "alert_error_ensure_funds": "Hakikisha salio la kutosha",
+  "alert_error_verify_address": "Thibitisha anwani ya kulipia"
+>>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

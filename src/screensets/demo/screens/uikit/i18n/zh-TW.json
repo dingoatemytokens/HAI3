@@ -579,6 +579,7 @@
   "data_table_email": "信箱",
   "data_table_amount": "金額",
   "data_table_filter_placeholder": "篩選信箱...",
+<<<<<<< HEAD
   "data_table_no_results": "無結果。"
 <<<<<<< HEAD
 =======
@@ -586,4 +587,16 @@
 >>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
 =======
 >>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
+=======
+  "data_table_no_results": "無結果。",
+  "alert_heading": "提示",
+  "alert_success_title": "成功！您的更改已儲存",
+  "alert_success_description": "這是一個帶有圖示、標題和說明的提示。",
+  "alert_info_title": "此提示有標題和圖示。沒有說明。",
+  "alert_error_title": "無法處理您的付款。",
+  "alert_error_description": "請驗證您的帳單資訊並重試。",
+  "alert_error_check_card": "檢查您的卡片詳情",
+  "alert_error_ensure_funds": "確保餘額充足",
+  "alert_error_verify_address": "驗證帳單地址"
+>>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

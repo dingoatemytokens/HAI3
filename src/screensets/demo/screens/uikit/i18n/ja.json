@@ -579,6 +579,7 @@
   "data_table_email": "メール",
   "data_table_amount": "金額",
   "data_table_filter_placeholder": "メールをフィルター...",
+<<<<<<< HEAD
   "data_table_no_results": "結果がありません。"
 <<<<<<< HEAD
 =======
@@ -586,4 +587,16 @@
 >>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
 =======
 >>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
+=======
+  "data_table_no_results": "結果がありません。",
+  "alert_heading": "アラート",
+  "alert_success_title": "成功！変更が保存されました",
+  "alert_success_description": "これはアイコン、タイトル、説明を含むアラートです。",
+  "alert_info_title": "このアラートにはタイトルとアイコンがあります。説明はありません。",
+  "alert_error_title": "お支払いを処理できませんでした。",
+  "alert_error_description": "請求情報を確認して、もう一度お試しください。",
+  "alert_error_check_card": "カード情報を確認",
+  "alert_error_ensure_funds": "十分な残高を確保",
+  "alert_error_verify_address": "請求先住所を確認"
+>>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

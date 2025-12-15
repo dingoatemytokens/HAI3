@@ -579,6 +579,7 @@
   "data_table_email": "E-mel",
   "data_table_amount": "Jumlah",
   "data_table_filter_placeholder": "Tapis e-mel...",
+<<<<<<< HEAD
   "data_table_no_results": "Tiada keputusan."
 <<<<<<< HEAD
 =======
@@ -586,4 +587,16 @@
 >>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
 =======
 >>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
+=======
+  "data_table_no_results": "Tiada keputusan.",
+  "alert_heading": "Amaran",
+  "alert_success_title": "Berjaya! Perubahan anda telah disimpan",
+  "alert_success_description": "Ini adalah amaran dengan ikon, tajuk dan penerangan.",
+  "alert_info_title": "Amaran ini mempunyai tajuk dan ikon. Tiada penerangan.",
+  "alert_error_title": "Pembayaran anda tidak dapat diproses.",
+  "alert_error_description": "Sila sahkan maklumat pengebilan anda dan cuba lagi.",
+  "alert_error_check_card": "Semak butiran kad anda",
+  "alert_error_ensure_funds": "Pastikan dana mencukupi",
+  "alert_error_verify_address": "Sahkan alamat pengebilan"
+>>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

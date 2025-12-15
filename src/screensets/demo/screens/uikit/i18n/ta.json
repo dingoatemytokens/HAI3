@@ -579,6 +579,7 @@
   "data_table_email": "மின்னஞ்சல்",
   "data_table_amount": "தொகை",
   "data_table_filter_placeholder": "மின்னஞ்சல் வடிகட்டு...",
+<<<<<<< HEAD
   "data_table_no_results": "முடிவுகள் இல்லை."
 <<<<<<< HEAD
 =======
@@ -586,4 +587,16 @@
 >>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
 =======
 >>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
+=======
+  "data_table_no_results": "முடிவுகள் இல்லை.",
+  "alert_heading": "எச்சரிக்கை",
+  "alert_success_title": "வெற்றி! உங்கள் மாற்றங்கள் சேமிக்கப்பட்டன",
+  "alert_success_description": "இது ஐகான், தலைப்பு மற்றும் விளக்கத்துடன் கூடிய எச்சரிக்கை.",
+  "alert_info_title": "இந்த எச்சரிக்கையில் தலைப்பும் ஐகானும் உள்ளது. விளக்கம் இல்லை.",
+  "alert_error_title": "உங்கள் கட்டணத்தை செயல்படுத்த இயலவில்லை.",
+  "alert_error_description": "உங்கள் பில்லிங் தகவலை சரிபார்த்து மீண்டும் முயற்சிக்கவும்.",
+  "alert_error_check_card": "உங்கள் கார்டு விவரங்களை சரிபார்க்கவும்",
+  "alert_error_ensure_funds": "போதுமான இருப்பை உறுதிசெய்க",
+  "alert_error_verify_address": "பில்லிங் முகவரியை சரிபார்க்கவும்"
+>>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

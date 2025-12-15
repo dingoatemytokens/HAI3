@@ -575,6 +575,7 @@
   "data_table_email": "البريد الإلكتروني",
   "data_table_amount": "المبلغ",
   "data_table_filter_placeholder": "تصفية البريد...",
+<<<<<<< HEAD
   "data_table_no_results": "لا توجد نتائج."
 <<<<<<< HEAD
 =======
@@ -582,4 +583,16 @@
 >>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
 =======
 >>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
+=======
+  "data_table_no_results": "لا توجد نتائج.",
+  "alert_heading": "تنبيه",
+  "alert_success_title": "تم! تم حفظ تغييراتك",
+  "alert_success_description": "هذا تنبيه يحتوي على أيقونة وعنوان ووصف.",
+  "alert_info_title": "هذا التنبيه يحتوي على عنوان وأيقونة. بدون وصف.",
+  "alert_error_title": "تعذر معالجة الدفع الخاص بك.",
+  "alert_error_description": "يرجى التحقق من معلومات الفاتورة والمحاولة مرة أخرى.",
+  "alert_error_check_card": "تحقق من تفاصيل بطاقتك",
+  "alert_error_ensure_funds": "تأكد من وجود رصيد كافٍ",
+  "alert_error_verify_address": "تحقق من عنوان الفاتورة"
+>>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

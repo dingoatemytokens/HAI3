@@ -579,6 +579,7 @@
   "data_table_email": "ای میل",
   "data_table_amount": "رقم",
   "data_table_filter_placeholder": "ای میل فلٹر...",
+<<<<<<< HEAD
   "data_table_no_results": "کوئی نتائج نہیں۔"
 <<<<<<< HEAD
 =======
@@ -586,4 +587,16 @@
 >>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
 =======
 >>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
+=======
+  "data_table_no_results": "کوئی نتائج نہیں۔",
+  "alert_heading": "انتباہ",
+  "alert_success_title": "کامیابی! آپ کی تبدیلیاں محفوظ ہو گئیں",
+  "alert_success_description": "یہ آئیکن، عنوان اور تفصیل کے ساتھ ایک انتباہ ہے۔",
+  "alert_info_title": "اس انتباہ میں عنوان اور آئیکن ہے۔ کوئی تفصیل نہیں۔",
+  "alert_error_title": "آپ کی ادائیگی پر کارروائی نہیں ہو سکی۔",
+  "alert_error_description": "براہ کرم اپنی بلنگ معلومات کی تصدیق کریں اور دوبارہ کوشش کریں۔",
+  "alert_error_check_card": "اپنے کارڈ کی تفصیلات چیک کریں",
+  "alert_error_ensure_funds": "کافی رقم کو یقینی بنائیں",
+  "alert_error_verify_address": "بلنگ ایڈریس کی تصدیق کریں"
+>>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

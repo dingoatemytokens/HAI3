@@ -579,6 +579,7 @@
   "data_table_email": "E-post",
   "data_table_amount": "Belopp",
   "data_table_filter_placeholder": "Filtrera e-post...",
+<<<<<<< HEAD
   "data_table_no_results": "Inga resultat."
 <<<<<<< HEAD
 =======
@@ -586,4 +587,16 @@
 >>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
 =======
 >>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
+=======
+  "data_table_no_results": "Inga resultat.",
+  "alert_heading": "Varning",
+  "alert_success_title": "Klart! Dina ändringar har sparats",
+  "alert_success_description": "Detta är en varning med ikon, titel och beskrivning.",
+  "alert_info_title": "Denna varning har en titel och en ikon. Ingen beskrivning.",
+  "alert_error_title": "Din betalning kunde inte behandlas.",
+  "alert_error_description": "Vänligen verifiera din faktureringsinformation och försök igen.",
+  "alert_error_check_card": "Kontrollera dina kortuppgifter",
+  "alert_error_ensure_funds": "Säkerställ tillräckligt saldo",
+  "alert_error_verify_address": "Verifiera faktureringsadress"
+>>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

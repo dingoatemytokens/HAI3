@@ -579,6 +579,7 @@
   "data_table_email": "ईमेल",
   "data_table_amount": "राशि",
   "data_table_filter_placeholder": "ईमेल फ़िल्टर...",
+<<<<<<< HEAD
   "data_table_no_results": "कोई परिणाम नहीं।"
 <<<<<<< HEAD
 =======
@@ -586,4 +587,16 @@
 >>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
 =======
 >>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
+=======
+  "data_table_no_results": "कोई परिणाम नहीं।",
+  "alert_heading": "चेतावनी",
+  "alert_success_title": "सफल! आपके बदलाव सहेज लिए गए हैं",
+  "alert_success_description": "यह आइकन, शीर्षक और विवरण के साथ एक चेतावनी है।",
+  "alert_info_title": "इस चेतावनी में एक शीर्षक और एक आइकन है। कोई विवरण नहीं।",
+  "alert_error_title": "आपका भुगतान संसाधित नहीं किया जा सका।",
+  "alert_error_description": "कृपया अपनी बिलिंग जानकारी सत्यापित करें और पुनः प्रयास करें।",
+  "alert_error_check_card": "अपने कार्ड विवरण जांचें",
+  "alert_error_ensure_funds": "पर्याप्त धनराशि सुनिश्चित करें",
+  "alert_error_verify_address": "बिलिंग पता सत्यापित करें"
+>>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

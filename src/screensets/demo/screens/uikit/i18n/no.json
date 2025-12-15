@@ -579,6 +579,7 @@
   "data_table_email": "E-post",
   "data_table_amount": "Beløp",
   "data_table_filter_placeholder": "Filtrer e-post...",
+<<<<<<< HEAD
   "data_table_no_results": "Ingen resultater."
 <<<<<<< HEAD
 =======
@@ -586,4 +587,16 @@
 >>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
 =======
 >>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
+=======
+  "data_table_no_results": "Ingen resultater.",
+  "alert_heading": "Varsel",
+  "alert_success_title": "Suksess! Endringene dine er lagret",
+  "alert_success_description": "Dette er et varsel med ikon, tittel og beskrivelse.",
+  "alert_info_title": "Dette varselet har en tittel og et ikon. Ingen beskrivelse.",
+  "alert_error_title": "Betalingen din kunne ikke behandles.",
+  "alert_error_description": "Vennligst bekreft faktureringsinformasjonen din og prøv igjen.",
+  "alert_error_check_card": "Sjekk kortdetaljene dine",
+  "alert_error_ensure_funds": "Sørg for tilstrekkelig dekning",
+  "alert_error_verify_address": "Bekreft faktureringsadresse"
+>>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

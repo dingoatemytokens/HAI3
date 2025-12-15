@@ -579,6 +579,7 @@
   "data_table_email": "이메일",
   "data_table_amount": "금액",
   "data_table_filter_placeholder": "이메일 필터...",
+<<<<<<< HEAD
   "data_table_no_results": "결과 없음."
 <<<<<<< HEAD
 =======
@@ -586,4 +587,16 @@
 >>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
 =======
 >>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
+=======
+  "data_table_no_results": "결과 없음.",
+  "alert_heading": "알림",
+  "alert_success_title": "성공! 변경사항이 저장되었습니다",
+  "alert_success_description": "이것은 아이콘, 제목 및 설명이 있는 알림입니다.",
+  "alert_info_title": "이 알림에는 제목과 아이콘이 있습니다. 설명 없음.",
+  "alert_error_title": "결제를 처리할 수 없습니다.",
+  "alert_error_description": "청구 정보를 확인하고 다시 시도하세요.",
+  "alert_error_check_card": "카드 정보 확인",
+  "alert_error_ensure_funds": "잔액 확인",
+  "alert_error_verify_address": "청구 주소 확인"
+>>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

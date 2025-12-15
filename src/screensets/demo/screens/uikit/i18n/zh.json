@@ -579,6 +579,7 @@
   "data_table_email": "邮箱",
   "data_table_amount": "金额",
   "data_table_filter_placeholder": "筛选邮箱...",
+<<<<<<< HEAD
   "data_table_no_results": "无结果。"
 <<<<<<< HEAD
 =======
@@ -586,4 +587,16 @@
 >>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
 =======
 >>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
+=======
+  "data_table_no_results": "无结果。",
+  "alert_heading": "提示",
+  "alert_success_title": "成功！您的更改已保存",
+  "alert_success_description": "这是一个带有图标、标题和说明的提示。",
+  "alert_info_title": "此提示有标题和图标。没有说明。",
+  "alert_error_title": "无法处理您的付款。",
+  "alert_error_description": "请验证您的账单信息并重试。",
+  "alert_error_check_card": "检查您的卡片详情",
+  "alert_error_ensure_funds": "确保余额充足",
+  "alert_error_verify_address": "验证账单地址"
+>>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

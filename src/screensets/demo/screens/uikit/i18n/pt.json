@@ -579,6 +579,7 @@
   "data_table_email": "E-mail",
   "data_table_amount": "Valor",
   "data_table_filter_placeholder": "Filtrar e-mails...",
+<<<<<<< HEAD
   "data_table_no_results": "Sem resultados."
 <<<<<<< HEAD
 =======
@@ -586,4 +587,16 @@
 >>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
 =======
 >>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
+=======
+  "data_table_no_results": "Sem resultados.",
+  "alert_heading": "Alerta",
+  "alert_success_title": "Sucesso! Suas alterações foram salvas",
+  "alert_success_description": "Este é um alerta com ícone, título e descrição.",
+  "alert_info_title": "Este alerta tem um título e um ícone. Sem descrição.",
+  "alert_error_title": "Não foi possível processar seu pagamento.",
+  "alert_error_description": "Por favor, verifique suas informações de faturamento e tente novamente.",
+  "alert_error_check_card": "Verifique os dados do cartão",
+  "alert_error_ensure_funds": "Garanta fundos suficientes",
+  "alert_error_verify_address": "Verifique o endereço de cobrança"
+>>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

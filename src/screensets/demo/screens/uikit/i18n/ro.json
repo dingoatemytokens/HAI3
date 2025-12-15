@@ -579,6 +579,7 @@
   "data_table_email": "E-mail",
   "data_table_amount": "Sumă",
   "data_table_filter_placeholder": "Filtrează e-mailuri...",
+<<<<<<< HEAD
   "data_table_no_results": "Niciun rezultat."
 <<<<<<< HEAD
 =======
@@ -586,4 +587,16 @@
 >>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
 =======
 >>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
+=======
+  "data_table_no_results": "Niciun rezultat.",
+  "alert_heading": "Alertă",
+  "alert_success_title": "Succes! Modificările tale au fost salvate",
+  "alert_success_description": "Aceasta este o alertă cu pictogramă, titlu și descriere.",
+  "alert_info_title": "Această alertă are un titlu și o pictogramă. Fără descriere.",
+  "alert_error_title": "Plata nu a putut fi procesată.",
+  "alert_error_description": "Vă rugăm să verificați informațiile de facturare și să încercați din nou.",
+  "alert_error_check_card": "Verificați detaliile cardului",
+  "alert_error_ensure_funds": "Asigurați fonduri suficiente",
+  "alert_error_verify_address": "Verificați adresa de facturare"
+>>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

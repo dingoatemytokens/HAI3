@@ -579,6 +579,7 @@
   "data_table_email": "อีเมล",
   "data_table_amount": "จำนวน",
   "data_table_filter_placeholder": "กรองอีเมล...",
+<<<<<<< HEAD
   "data_table_no_results": "ไม่พบผลลัพธ์"
 <<<<<<< HEAD
 =======
@@ -586,4 +587,16 @@
 >>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
 =======
 >>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
+=======
+  "data_table_no_results": "ไม่พบผลลัพธ์",
+  "alert_heading": "การแจ้งเตือน",
+  "alert_success_title": "สำเร็จ! การเปลี่ยนแปลงของคุณถูกบันทึกแล้ว",
+  "alert_success_description": "นี่คือการแจ้งเตือนพร้อมไอคอน หัวข้อ และคำอธิบาย",
+  "alert_info_title": "การแจ้งเตือนนี้มีหัวข้อและไอคอน ไม่มีคำอธิบาย",
+  "alert_error_title": "ไม่สามารถดำเนินการชำระเงินของคุณได้",
+  "alert_error_description": "กรุณาตรวจสอบข้อมูลการเรียกเก็บเงินและลองอีกครั้ง",
+  "alert_error_check_card": "ตรวจสอบรายละเอียดบัตรของคุณ",
+  "alert_error_ensure_funds": "ตรวจสอบยอดเงินคงเหลือ",
+  "alert_error_verify_address": "ยืนยันที่อยู่สำหรับเรียกเก็บเงิน"
+>>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

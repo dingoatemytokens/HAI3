@@ -579,6 +579,7 @@
   "data_table_email": "Email",
   "data_table_amount": "Jumlah",
   "data_table_filter_placeholder": "Filter email...",
+<<<<<<< HEAD
   "data_table_no_results": "Tidak ada hasil."
 <<<<<<< HEAD
 =======
@@ -586,4 +587,16 @@
 >>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
 =======
 >>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
+=======
+  "data_table_no_results": "Tidak ada hasil.",
+  "alert_heading": "Peringatan",
+  "alert_success_title": "Berhasil! Perubahan Anda telah disimpan",
+  "alert_success_description": "Ini adalah peringatan dengan ikon, judul dan deskripsi.",
+  "alert_info_title": "Peringatan ini memiliki judul dan ikon. Tanpa deskripsi.",
+  "alert_error_title": "Pembayaran Anda tidak dapat diproses.",
+  "alert_error_description": "Harap verifikasi informasi penagihan Anda dan coba lagi.",
+  "alert_error_check_card": "Periksa detail kartu Anda",
+  "alert_error_ensure_funds": "Pastikan dana mencukupi",
+  "alert_error_verify_address": "Verifikasi alamat penagihan"
+>>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

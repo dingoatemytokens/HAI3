@@ -579,6 +579,7 @@
   "data_table_email": "E-mail",
   "data_table_amount": "Ποσό",
   "data_table_filter_placeholder": "Φίλτρο e-mail...",
+<<<<<<< HEAD
   "data_table_no_results": "Κανένα αποτέλεσμα."
 <<<<<<< HEAD
 =======
@@ -586,4 +587,16 @@
 >>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
 =======
 >>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
+=======
+  "data_table_no_results": "Κανένα αποτέλεσμα.",
+  "alert_heading": "Ειδοποίηση",
+  "alert_success_title": "Επιτυχία! Οι αλλαγές σας αποθηκεύτηκαν",
+  "alert_success_description": "Αυτή είναι μια ειδοποίηση με εικονίδιο, τίτλο και περιγραφή.",
+  "alert_info_title": "Αυτή η ειδοποίηση έχει τίτλο και εικονίδιο. Χωρίς περιγραφή.",
+  "alert_error_title": "Η πληρωμή σας δεν μπόρεσε να επεξεργαστεί.",
+  "alert_error_description": "Παρακαλώ επαληθεύστε τα στοιχεία χρέωσης και δοκιμάστε ξανά.",
+  "alert_error_check_card": "Ελέγξτε τα στοιχεία της κάρτας",
+  "alert_error_ensure_funds": "Εξασφαλίστε επαρκές υπόλοιπο",
+  "alert_error_verify_address": "Επαληθεύστε τη διεύθυνση χρέωσης"
+>>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

@@ -579,6 +579,7 @@
   "data_table_email": "Email",
   "data_table_amount": "Сума",
   "data_table_filter_placeholder": "Фільтр email...",
+<<<<<<< HEAD
   "data_table_no_results": "Немає результатів."
 <<<<<<< HEAD
 =======
@@ -586,4 +587,16 @@
 >>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
 =======
 >>>>>>> dcd7435 (feat(ui): implement data table base ui kit element)
+=======
+  "data_table_no_results": "Немає результатів.",
+  "alert_heading": "Сповіщення",
+  "alert_success_title": "Успішно! Ваші зміни збережено",
+  "alert_success_description": "Це сповіщення з іконкою, заголовком та описом.",
+  "alert_info_title": "Це сповіщення має заголовок та іконку. Без опису.",
+  "alert_error_title": "Не вдалося обробити платіж.",
+  "alert_error_description": "Будь ласка, перевірте платіжні дані та спробуйте знову.",
+  "alert_error_check_card": "Перевірте дані картки",
+  "alert_error_ensure_funds": "Переконайтеся в достатньому балансі",
+  "alert_error_verify_address": "Перевірте адресу виставлення рахунку"
+>>>>>>> 2807aae (feat(ui): implement alert base ui kit element)
 }

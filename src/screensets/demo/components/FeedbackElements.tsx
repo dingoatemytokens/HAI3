@@ -1,13 +1,14 @@
 import React, { useState } from 'react';
-import { Progress, Skeleton, Spinner } from '@hai3/uikit';
+import { Alert, AlertTitle, AlertDescription, Progress, Skeleton, Spinner } from '@hai3/uikit';
 import { useTranslation, TextLoader } from '@hai3/uicore';
+import { AlertCircleIcon, CheckCircle2Icon, PopcornIcon } from 'lucide-react';
 import { LoaderIcon } from '../uikit/icons/LoaderIcon';
 import { DEMO_SCREENSET_ID } from "../ids";
 import { UI_KIT_ELEMENTS_SCREEN_ID } from "../ids";
 
 /**
  * Feedback Elements Component
- * Contains Progress, Spinner, and Skeleton demonstrations
+ * Contains Alert, Progress, Spinner, and Skeleton demonstrations
  * Uses parent screen (UIKitElementsScreen) translations
  */
 export const FeedbackElements: React.FC = () => {
@@ -20,6 +21,75 @@ export const FeedbackElements: React.FC = () => {
 
   return (
     <>
+      {/* Alert Element Block */}
+      <div data-element-id="element-alert" className="flex flex-col gap-4">
+        <TextLoader skeletonClassName="h-8 w-24">
+          <h2 className="text-2xl font-semibold">
+            {tk('alert_heading')}
+          </h2>
+        </TextLoader>
+        <div className="flex items-center justify-center p-6 border border-border rounded-lg bg-background overflow-hidden">
+          <div className="grid w-full max-w-xl items-start gap-4">
+            {/* Success Alert with icon, title, and description */}
+            <Alert>
+              <CheckCircle2Icon />
+              <AlertTitle>
+                <TextLoader skeletonClassName="h-4 w-64" inheritColor>
+                  {tk('alert_success_title')}
+                </TextLoader>
+              </AlertTitle>
+              <AlertDescription>
+                <TextLoader skeletonClassName="h-4 w-80">
+                  {tk('alert_success_description')}
+                </TextLoader>
+              </AlertDescription>
+            </Alert>
+
+            {/* Info Alert with icon and title only */}
+            <Alert>
+              <PopcornIcon />
+              <AlertTitle>
+                <TextLoader skeletonClassName="h-4 w-72" inheritColor>
+                  {tk('alert_info_title')}
+                </TextLoader>
+              </AlertTitle>
+            </Alert>
+
+            {/* Destructive Alert with icon, title, description, and list */}
+            <Alert variant="destructive">
+              <AlertCircleIcon />
+              <AlertTitle>
+                <TextLoader skeletonClassName="h-4 w-56" inheritColor>
+                  {tk('alert_error_title')}
+                </TextLoader>
+              </AlertTitle>
+              <AlertDescription>
+                <TextLoader skeletonClassName="h-4 w-72" inheritColor>
+                  <p>{tk('alert_error_description')}</p>
+                </TextLoader>
+                <ul className="list-inside list-disc text-sm">
+                  <li>
+                    <TextLoader skeletonClassName="h-3.5 w-32 inline-block" inheritColor>
+                      {tk('alert_error_check_card')}
+                    </TextLoader>
+                  </li>
+                  <li>
+                    <TextLoader skeletonClassName="h-3.5 w-36 inline-block" inheritColor>
+                      {tk('alert_error_ensure_funds')}
+                    </TextLoader>
+                  </li>
+                  <li>
+                    <TextLoader skeletonClassName="h-3.5 w-32 inline-block" inheritColor>
+                      {tk('alert_error_verify_address')}
+                    </TextLoader>
+                  </li>
+                </ul>
+              </AlertDescription>
+            </Alert>
+          </div>
+        </div>
+      </div>
+
       {/* Progress Element Block */}
       <div data-element-id="element-progress" className="flex flex-col gap-4">
         <TextLoader skeletonClassName="h-8 w-24">
