@@ -11,6 +11,7 @@ import type { Language } from '@hai3/i18n';
 /**
  * User Extra Properties
  * Applications extend this via module augmentation for platform-specific fields
+ * @public Reserved for future module augmentation
  */
 export interface UserExtra {
   // Applications add their types via module augmentation
@@ -36,6 +37,7 @@ export interface ApiUser {
 
 /**
  * User roles
+ * @public Reserved for future use
  */
 export enum UserRole {
   Admin = 'admin',

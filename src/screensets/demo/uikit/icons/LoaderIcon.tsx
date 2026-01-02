@@ -3,6 +3,7 @@ import React from 'react';
 /**
  * Loader Icon ID
  * Well-known constant defined where it belongs
+ * @public Reserved for future icon registry usage
  */
 export const LOADER_ICON_ID = 'loader';
 

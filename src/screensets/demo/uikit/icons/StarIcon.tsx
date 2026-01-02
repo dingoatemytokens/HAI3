@@ -3,6 +3,7 @@ import React from 'react';
 /**
  * Star Icon ID
  * Well-known constant defined where it belongs
+ * @public Reserved for future icon registry usage
  */
 export const STAR_ICON_ID = 'star';
 

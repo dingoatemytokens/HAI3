@@ -138,6 +138,7 @@ export const UIKIT_CATEGORIES: UIKitCategory[] = [
 
 /**
  * Get category by ID
+ * @public Reserved for future use
  */
 export function getCategoryById(categoryId: string): UIKitCategory | undefined {
   return UIKIT_CATEGORIES.find(cat => cat.id === categoryId);
@@ -145,6 +146,7 @@ export function getCategoryById(categoryId: string): UIKitCategory | undefined {
 
 /**
  * Get category ID for an element
+ * @public Reserved for future use
  */
 export function getCategoryIdForElement(elementName: string): string | undefined {
   const category = UIKIT_CATEGORIES.find(cat =>
