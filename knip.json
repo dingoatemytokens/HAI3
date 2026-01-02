@@ -35,5 +35,8 @@
   "ignoreBinaries": [
     "dot"
   ],
-  "ignoreExportsUsedInFile": true
+  "ignoreExportsUsedInFile": true,
+  "ignoreIssues": {
+    "**/*Screen.tsx": ["duplicates"]
+  }
 }
