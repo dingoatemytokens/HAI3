@@ -2,9 +2,12 @@
   "$schema": "https://unpkg.com/knip@5/schema.json",
   "workspaces": {
     ".": {
-      "entry": ["src/app/main.tsx"],
+      "entry": [
+        "src/app/main.tsx",
+        "src/screensets/*/*[Ss]creenset.tsx"
+      ],
       "project": ["src/**/*.{ts,tsx}"],
-      "ignore": ["src/screensets/**"]
+      "ignore": ["src/screensets/_blank/**"]
     },
     "packages/cli": {
       "ignore": ["templates/**", "template-sources/**"]
@@ -27,7 +30,6 @@
   ],
   "ignoreDependencies": [
     "@types/*",
-    "lucide-react",
     "@hai3/depcruise-config/*"
   ],
   "ignoreBinaries": [
